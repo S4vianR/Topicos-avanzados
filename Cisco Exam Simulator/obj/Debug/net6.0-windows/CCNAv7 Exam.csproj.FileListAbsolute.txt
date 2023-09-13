@@ -1,0 +1,17 @@
+C:\Users\reube\source\repos\CCNAv7 Exam\bin\Debug\net6.0-windows\CCNAv7 Exam.exe
+C:\Users\reube\source\repos\CCNAv7 Exam\bin\Debug\net6.0-windows\CCNAv7 Exam.deps.json
+C:\Users\reube\source\repos\CCNAv7 Exam\bin\Debug\net6.0-windows\CCNAv7 Exam.runtimeconfig.json
+C:\Users\reube\source\repos\CCNAv7 Exam\bin\Debug\net6.0-windows\CCNAv7 Exam.dll
+C:\Users\reube\source\repos\CCNAv7 Exam\bin\Debug\net6.0-windows\CCNAv7 Exam.pdb
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7_Exam.Form1.resources
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7_Exam.Properties.Resources.resources
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.csproj.GenerateResource.cache
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.AssemblyInfoInputs.cache
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.AssemblyInfo.cs
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.csproj.CoreCompileInputs.cache
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.dll
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\refint\CCNAv7 Exam.dll
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.pdb
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\CCNAv7 Exam.genruntimeconfig.cache
+C:\Users\reube\source\repos\CCNAv7 Exam\obj\Debug\net6.0-windows\ref\CCNAv7 Exam.dll
