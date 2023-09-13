@@ -1,0 +1,17 @@
+C:\Users\reube\source\repos\E-PizzaBite\bin\Debug\net6.0-windows\E-PizzaBite.exe
+C:\Users\reube\source\repos\E-PizzaBite\bin\Debug\net6.0-windows\E-PizzaBite.deps.json
+C:\Users\reube\source\repos\E-PizzaBite\bin\Debug\net6.0-windows\E-PizzaBite.runtimeconfig.json
+C:\Users\reube\source\repos\E-PizzaBite\bin\Debug\net6.0-windows\E-PizzaBite.dll
+C:\Users\reube\source\repos\E-PizzaBite\bin\Debug\net6.0-windows\E-PizzaBite.pdb
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E_PizzaBite.EPizzaBiteForm.resources
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E_PizzaBite.Properties.Resources.resources
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.csproj.GenerateResource.cache
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.AssemblyInfoInputs.cache
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.AssemblyInfo.cs
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.csproj.CoreCompileInputs.cache
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.dll
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\refint\E-PizzaBite.dll
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.pdb
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\E-PizzaBite.genruntimeconfig.cache
+C:\Users\reube\source\repos\E-PizzaBite\obj\Debug\net6.0-windows\ref\E-PizzaBite.dll
